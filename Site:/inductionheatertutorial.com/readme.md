@@ -13,13 +13,33 @@ Home: http://inductionheatertutorial.com
 - http://inductionheatertutorial.com/inductionheater/induction8.html
 - http://inductionheatertutorial.com/inductionheater/induction9.html
 - http://inductionheatertutorial.com/inductionheater/induction10.html
+- http://inductionheatertutorial.com/inductionheater/induction11.html
 
-ark:
+Levitation:
+- http://inductionheatertutorial.com/inductionheater/inductionlevitation.html
+- http://inductionheatertutorial.com/inductionheater/inductionlevitation2.html
+- http://inductionheatertutorial.com/inductionheater/inductionlevitation2aa.html
+- http://inductionheatertutorial.com/inductionheater/inductionlevitation2a.html
+
+# ark:
 - https://web.archive.org/web/20240204013056/http://inductionheatertutorial.com/
 - https://web.archive.org/web/20240204013245/http://inductionheatertutorial.com/inductionheater/induction2.html
 - https://web.archive.org/web/20240204013717/http://inductionheatertutorial.com/inductionheater/induction3.html
 - https://web.archive.org/web/20240204014100/http://inductionheatertutorial.com/inductionheater/induction4.html
-- 
+- https://web.archive.org/web/20240204014155/http://inductionheatertutorial.com/inductionheater/induction5.html
+- https://web.archive.org/web/20240204014428/http://inductionheatertutorial.com/inductionheater/induction5a.html
+- https://web.archive.org/web/20240204014517/http://inductionheatertutorial.com/inductionheater/induction6.html
+- https://web.archive.org/web/20240204014626/http://inductionheatertutorial.com/inductionheater/induction7.html
+- https://web.archive.org/web/20240204014737/http://inductionheatertutorial.com/inductionheater/induction7a.html
+- https://web.archive.org/web/20240204014828/http://inductionheatertutorial.com/inductionheater/induction8.html
+- https://web.archive.org/web/20240204014918/http://inductionheatertutorial.com/inductionheater/induction9.html
+- https://web.archive.org/web/20240204015011/http://inductionheatertutorial.com/inductionheater/induction10.html
+- https://web.archive.org/web/20240204015052/http://inductionheatertutorial.com/inductionheater/induction11.html
+
+Levitation:
+- https://web.archive.org/web/20240204015343/http://inductionheatertutorial.com/inductionheater/inductionlevitation.html
+- https://web.archive.org/web/20240204015136/http://inductionheatertutorial.com/inductionheater/inductionlevitation2.html
+- https://web.archive.org/web/20240204015436/http://inductionheatertutorial.com/inductionheater/inductionlevitation2aa.html
 
 # channel:
 Home: https://www.youtube.com/@imsmoother
