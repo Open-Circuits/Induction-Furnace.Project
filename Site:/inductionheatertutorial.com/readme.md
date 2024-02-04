@@ -1,5 +1,5 @@
-# Home:
-http://inductionheatertutorial.com
+# Site:
+Home: http://inductionheatertutorial.com
 
 # page:
 - http://inductionheatertutorial.com/inductionheater/induction2.html
@@ -17,7 +17,17 @@ http://inductionheatertutorial.com
 ark:
 - https://web.archive.org/web/20240204013056/http://inductionheatertutorial.com/
 - https://web.archive.org/web/20240204013245/http://inductionheatertutorial.com/inductionheater/induction2.html
+- https://web.archive.org/web/20240204013717/http://inductionheatertutorial.com/inductionheater/induction3.html
+- https://web.archive.org/web/20240204014100/http://inductionheatertutorial.com/inductionheater/induction4.html
+- 
 
+# channel:
+Home: https://www.youtube.com/@imsmoother
 
-# video:
-[DIY Induction Heater](https://youtu.be/CyG0Ri0dqI4)
+## playlist:
+[Building a better induction heater, by imsmoother](https://www.youtube.com/playlist?list=PLK_Je1TKuxtbtrYb9hET-nULzFN_jNbUE)
+
+## video:
+- [DIY Induction Heater](https://youtu.be/CyG0Ri0dqI4)
+- [How to build a high power induction heater beyond 10kw](https://youtu.be/3aUUEhdqvbU)
+- [Does induction heater emit dangerous RF and EMF radiation](https://youtu.be/NWUQCc7xZUE)
