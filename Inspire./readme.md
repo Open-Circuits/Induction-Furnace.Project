@@ -1,4 +1,6 @@
 # Video:
+- [Revolutionary Invention: IGBT-Based Induction Heater - No Mosfet, No Diodes, No Resistance, No Coil!](https://youtu.be/BWDdJBlsydc)
+- [Revolutionary Invention: IGBT-Based Induction Heater - No Mosfet, No Diodes, No Resistance, No Coil!](https://youtu.be/atg8w19aN7Q)
 - [Building a 1.4kW Induction Heater](https://youtu.be/YO_cYhV6eIM)
 - [DIY induction heater that can BOIL STEEL](https://youtu.be/wKFnk4R54ZQ)
 - [Almost MELTING Metal with Induction Heater](https://youtu.be/hFJeIt_JcEc)
